@@ -1,0 +1,14 @@
+### Principles that are broken by the Bad Design Code:
+
+1. Single Responsiblity Principle (SRP)
+- In the bad design code we had a single class ParkingLot which
+had many reasons/methods to change. like to parkVehicle , exitVehicle
+addFloors etc... So this will break the single responsiblity principle
+
+2. Open Closed Principle
+- In the bad design we had multiple if-else blocks for different
+types of vehicles now if we want to add another type of vehicle
+like an electric vehicle then we will have to MODIFY the above code
+and add another else if block again to handle that. 
+Also we can use polymorphism to avoid this and for a better design.
+

@@ -52,7 +52,7 @@ class ParkingLot {
             for(int i = 0 ; i < spots.size() ; i++) {
                 if(spots[i] == vehicleNumber) {
                     spots[i] = "EMPTY";
-                    breaks;
+                    break;
                 }
             }
             cout << "Vehicle exited";
