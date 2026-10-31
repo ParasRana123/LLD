@@ -1,0 +1,12 @@
+### Parking Lot System
+
+Functional Requirements: 
+- Parking lot should have multiple floors
+- One each floor there should be multiple spots
+- Parking spots will be of different types - 'Motorcycle' , 'Car' , 'Truck'
+- Different types of vehicles - 'Motorcycle' , 'Car' , 'Truck'
+- System should be able to find suitable parking spots for each type of vehicle
+- When the vehicle leaves, a ticket should get generated containing the duration of time for which vehicle was parked
+- Total fare will get calculated based on the duration
+- Then payment will happen using different payment methods
+
