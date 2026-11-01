@@ -1,0 +1,11 @@
+### Food Delivery Platform (Like Zomato , Swiggy)
+
+Functional Requirements:
+- User should be able to browse the restaurants based on location
+- User should be able to see the menu of the restaurants
+- User should be able to place multiple items in the cart
+- User should be able to make payment using different payment methods
+- Restaurant should be able to see the orders placed by the users
+- Restaurant should be able to update the status of the order (Accepted , Preparing , Ready for Pickup , Out for Delivery , Delivered)
+- Delivery person should get assigned by the system to deliver the order
+- Customer should be able to track the status of the order in real-time
